@@ -1,0 +1,5 @@
+{
+  "required": ["order_id", "region", "amount"],
+  "unique": "order_id",
+  "minimum": {"amount": 0}
+}
