@@ -1,0 +1,4 @@
+order_id,region,amount
+1,,10
+1,west,-5
+2,east,NaN
